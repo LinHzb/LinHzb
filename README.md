@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm Caroline, a developer and network enthusiast passionate about building practical tools, automating tasks, and diving deep into infrastructure and security.</h2>
+<h2 align="left">Hi 👋! I'm Caroline — a developer focused on automation, Linux, and network infrastructure.</h2>
+
 
 
 ###

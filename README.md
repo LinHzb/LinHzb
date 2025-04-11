@@ -1,38 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Line
-============================================================================================================================
+<h1 align="center">Olá, eu sou a Line 👋</h1>
+<div align="center">
+<p>Oi, eu sou Line, uma profissional dedicada à área de redes, com uma paixão por automação, segurança e desenvolvimento backend. Com uma base sólida em redes, infraestrutura e segurança, gosto de trabalhar em projetos que otimizam sistemas e simplificam tarefas complexas. Estou sempre aprendendo e explorando novas ferramentas e tecnologias para me manter atualizada no mundo em constante evolução da TI.</p>
 
-💡 Subtitle:  
-Developer • Network & Security Enthusiast • Tech Explorer  
-
-✏️ About Me:  
-I'm passionate about technology, computer networks, and cybersecurity.  
-I have a strong interest in automation, infrastructure, CLI tools, and building solutions that simplify technical workflows.  
-I live in a constant learning mode and carry a dream of teaching and sharing knowledge someday.  
-
-🌍 I'm based in:  
-Brazil 🇧🇷
-
-🖥️ See my portfolio:  
-Coming soon 🚧
-
-✉️ Contact me at:  
-torvalsw.dev@gmail.com
-
-🚀 I'm currently working on:  
-- Automation scripts with Bash and Python  
-- A WireGuard setup tool with terminal-style flair  
-- Organizing my GitHub for future open-source contributions  
-
-🧠 I'm currently learning:  
-- Network security and DevSecOps fundamentals  
-- Languages like **Go**, **Ruby**, **Rust**, **PHP**, and **C**  
-- Project management practices and technical documentation  
-
-🤝 I'm open to collaborating on:  
-- Infrastructure and network-related scripts  
-- CLI tools and lightweight automation  
-- Security-focused projects  
-
-⚡ Anything else:  
-Besides tech, I breathe music — especially instrumental and ambient vibes like Aphex Twin 🎶  
-I enjoy crafting projects with personality and believe that learning with fun and creativity makes all the difference 💻🎨  
+<p>Quando não estou mergulhando em protocolos de redes ou criando soluções de automação, você me encontra experimentando novas linguagens de programação, contribuindo para projetos de segurança de código aberto ou compartilhando meu conhecimento com a comunidade por meio de blogs e tutoriais. Estou empolgada com hacking ético, DevOps e sempre expandindo minhas habilidades em tecnologias de backend.</p>
+</div>
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;</div>
+<h2 align="center">🛠 My Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinHzb&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Line</a></p>
